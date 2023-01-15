@@ -1,7 +1,7 @@
 # Udemy Ethereum Dapp Course Projects
 
 
-List of applications created in conjuction with the Blockchain development course. 
+List of applications created in conjunction with the Blockchain development course. 
 
 Applications:
 
